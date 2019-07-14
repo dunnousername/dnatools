@@ -19,32 +19,8 @@ There is also a program for converting FASTA amino sequences to FASTA RNA sequen
 Python 3.
 ## Which Python 3?
 The latest will probably work.
-## What license does this project use?
-It uses the MIT license.
-## Why not use GPL?
-GPL is awful.
-## But it's not!
-It is.
-## Why are you only giving one line answers?
-Not sure.
-## Really though, why don't you like the GPL?
-I think open-source is about helping society, at least to some extent. And society is made of people.
-
-So, I'd rather give people choices to benefit from this project, even if that means they don't share the changes back.
-
-At least for me, if I download something that someone is offering for free, I don't want them to demand I show them what I did with the code.
-
-If your friend gives you a recipe for a vanilla cake, and you make a much better chocolate cake by modifying the recipe, it would still be really weird if your friend knocks on your door and demands the recipe for the chocolate cake.
-
-## Why not use a public domain license?
-I think I remember reading somewhere that "public domain" is ill-defined legally, and so in some places you get less freedom with public domain code than you do with e.g. MIT-licensed code.
-
-But I'm not sure.
-## If you're not sure, then make it public domain now!
-What benefit do you get from that? Pretty much the only thing the MIT license requires for normal use is that you give attribution.
-
-With the chocolate cake example, I think most people would agree that, if you open a chocolate cake store (bakery... ?) and make millions, the least you could do is put your friend's name in fine print somewhere in the store.
-
+## Can I hear you rant about why you chose the MIT license?
+You sure can! See README.LICENSE.md at the root of this repo.
 ## Can you add Python 2 support?
 Unless someone contributes it, or a lot of people want Python 2 support, probably not.
 
